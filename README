@@ -1,12 +1,12 @@
 # Practice Code Interview
 This problem is called: Absolute Value Sort. It is a challenge available in pramp.com that I completed.
 
-## Details
+**Details**
 
 You are given an array in any order. The array must be sorted based on the element's absolute value. If both elements share the same absolute value, then order them by their numeric sign. Please
 feel free to look at the example below.
 
-### Example
+**Example**
 
 Input: [0, 2, -2, 2, -7]
 Output: [0, -2, 2, 2, -7]
